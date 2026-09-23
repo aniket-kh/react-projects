@@ -81,3 +81,8 @@ body {
 .res-card h4 {
     margin: 12px 0;
 }
+
+.filter-btn{
+    cursor: pointer;
+    margin: 10px;
+}
